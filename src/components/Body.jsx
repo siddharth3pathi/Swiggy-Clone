@@ -15,7 +15,7 @@ const Body = () => {
           );
         }}
       >
-        Filter Restaurants above 4.3 rating
+        Filter Good Restaurants
       </button>
       <div className="res-container">
         {listOfRestaurants.map((restaurant) => (
